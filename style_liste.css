@@ -1,0 +1,190 @@
+/*realison le css pour l'interface de contact */
+/*pour gere le cadre*/
+.cadre{
+    background-color: #ffffff;
+    border: 3px solid #007bff ;
+    height: 735px;
+    width: 1000px;
+    margin-left: 125px;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+body{
+    background-color: #f0f2f5;
+}
+/*le header en bref l'entete*/
+/*le titre*/
+.titre{
+    border: 3px solid ;
+    height: 45px;
+    width: 680px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 155px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 20px;
+    font-size:40px;
+    font-family: verdana;
+    background-color:#007bff ;
+    color: #f0f2f5;
+    font-weight: lighter;
+}
+
+/*lla barre de rechercher*/
+.rechercher{
+     margin-left: 200px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+}
+.search{
+    padding-top: 5px;
+    outline: none;
+    font-size: 20px;
+    padding-bottom: 5px;
+    width: 350px;
+    height: 50px;
+    padding-left: 10px;
+    text-align: center;
+}
+::placeholder{
+    text-align: center;
+}
+/**/
+.barre{
+    border: 1px solid #007bff;
+    background-color: #007bff;
+    border: none;
+}
+/* le bouton ok et ajouter un contact*/
+.ok{
+    margin-left: 5px;
+    width: 50px;
+    height: 40px;
+    color:white;
+    background-color: #007bff;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.ajouter{
+    margin-left: 5px;
+    width: 180px;
+    height: 40px;
+    color:white;
+    background-color: #28a745;
+    text-align: center;
+    box-sizing: border-box;
+    border: none;
+    font-size: 18px;
+    border-radius: 5px;
+}
+/*information du premier contact (infocont) En bref sa va gere tout les contacts */
+/*image*/
+ 
+ .infocont{
+    margin-left:30px;
+    margin-top: 20px;
+ }
+ 
+.nom{
+    margin-left: 0px;
+    width: 160px;
+    height: 30px;
+    border: 1px solid #28a745;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: cursive serif;
+    font-size: 18px;
+    background-color: #f0f2f5;
+}
+/* le prenom*/
+.surname{
+    margin-left: 2px;
+    width: 160px;
+    height: 30px;
+    border: 1px solid #007bff;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: cursive serif;
+    font-size: 18px;
+    background-color: #f0f2f5;
+}
+/*le telephone */
+.tel{
+    margin-left: 2px;
+    width: 160px;
+    height: 30px;
+    border: 1px solid #28a745;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: cursive serif;
+    font-size: 18px;
+    background-color: #f0f2f5;
+}
+/*votre email*/
+.email{
+    margin-left: 2px;
+    width: 240px;
+    height: 30px;
+    border: 1px solid #007bff;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: cursive serif;
+    font-size: 18px;
+    background-color: #f0f2f5;
+}
+.editer{
+    margin-left: 2px;
+    width: 65px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    background-color:#28a745;
+    border-radius: 5px;
+   border: none;
+   font-size: 17px;
+}
+.supprimer{
+    margin-left: 2px;
+    width: 65px;
+    height: 40px;
+    text-align: center;
+    background-color:#dc3545;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+}
+/*pour gere l'id en bref les numero*/
+.id{
+    font-size: 15px;
+    text-align: center;
+  
+}
+.idt{
+    border: 5px solid #dc3545;
+    min-width: 25px;
+    min-height: 25px;
+    text-align: center;
+    background-color: #f0f2f5;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*action*/
+.menu{
+   font-size: 20px;
+   font-family: cursive;
+}
+
+/**/
+.action{
+    text-align: center;
+}

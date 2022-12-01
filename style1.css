@@ -1,0 +1,118 @@
+.wrapper
+{
+    background-color: #f0f2f5;
+    height:620px;
+    margin-left: 300px;
+    margin-right: 380px;
+    margin-top: 20px;
+   border-style:ridge;
+   border-color:#007bff;
+   border-radius: 5%;
+   
+    
+   
+}
+   /* gestion de la premiere partie (photo) */
+
+#cercle
+{
+    width:80px;
+    height: 80px;
+    border-radius: 40px;
+    border-style:unset;
+    background-color:#007bff;
+    /* float:initial; */
+    margin-top: 20px;
+    margin-left: 290px;
+    margin-bottom: 20px;
+}
+#image
+{
+    width:80px;
+    height: 80px;
+    border-radius: 10px;
+}
+ /* gestion les text box du formulaire */
+.box1
+{
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 68px;
+    margin-right: 40px;
+    height:450px;
+    width:550px;
+
+}
+#nom
+{
+    margin-bottom: 30px;
+    margin-left: 25px;
+    padding-right: 210px;
+    padding-bottom: 12px;
+    padding-top: 5px;
+    border-radius: 10px;
+
+}
+#prenom
+{
+    margin-bottom: 30px;
+    margin-left: 9px;
+    padding-right: 207px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+}
+#tel
+{
+    margin-bottom: 30px;
+    margin-left: 37px;
+    padding-right: 210px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+}
+
+#email
+{
+   margin-bottom: 30px;
+    margin-left: 20px;
+    padding-right: 210px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+}
+/* stylisation des boutons  */
+#btn1
+{
+    float: left;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    border-width: 01px;
+    background-color:#dc3545;
+    border-color: #ffff;
+    font-family: sans-serif;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+
+}
+#btn2
+{
+    float:right;
+    margin-top: 20px;
+    height: 50px;
+    width: 150px;
+    margin-right: 88px;
+    border-width: 1px;
+    border-color: #ffff;
+    font-family:sans-serif;
+    background-color: #28a745;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color:white;
+   
+
+}

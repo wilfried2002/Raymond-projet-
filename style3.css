@@ -1,0 +1,163 @@
+.wrapper1
+{
+    background-color: #f0f2f5;
+    height: 700px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+    padding-top: 1px;
+    border-style:ridge;
+    border-color: #007bff;
+
+}
+.header
+{
+    height:50px;
+    margin-top: 20;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    /* background-color:darkgoldenrod; */
+
+}
+nav
+{
+    float: right;
+    margin-left: 100px;
+}
+img
+{
+    float:left;  
+    width:60px; 
+    background-color: #28a745;
+    border-radius: 30px;
+    margin-top: 3px;
+    margin-left: 50px;
+}
+#search
+{
+    margin-top: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color:#007bff;
+    border-radius: 20px;
+    padding-right: 200px;
+    margin-left: 20px;
+}
+.recherche
+{
+   margin-top: 15px;
+   margin-left: 240px;
+   margin-right: 230px;
+  
+}
+.recherch
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+
+}
+#ok
+{
+    width:90px;
+    height:40px;
+    margin-left: 10px;
+    background-color: #28a745;
+    border-radius: 6px;
+}
+#tel
+{
+    height:50px;
+    width:150px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-style:ridge;
+    border-color: #007bff;
+    border-radius:5px;
+}
+#contact
+{
+    height:50px;
+    width:150px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-style:ridge;
+    border-color: #007bff;
+    border-radius:5px;
+}
+#parametre
+{
+    height:50px;
+    width:150px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-style:ridge;
+    border-color: #007bff;
+    border-radius:5px;
+   
+}
+
+                                 /* paramettrage des deux tableaux de bord  */
+
+
+.dashbord1
+{
+    float:left;
+    margin-left: 50px;
+    margin-right: 300px;
+    margin-top: 30px;
+    border-style: 2px;
+    border-color: #28a745;
+    border-style:ridge;
+    background-color: #f0f2f5;
+    padding-right: 130px;
+    padding-bottom: 100px;
+}
+.dashbord1:hover
+{
+    background-color: #28a745;
+}
+.dashbord2
+{
+    margin-left:580px;
+    margin-top: 30px;
+    height: 250px;
+    margin-right: 50px;
+    border-style: 2px;
+    border-color: #28a745;
+    border-style:ridge;
+    background-color: #f0f2f5;
+}
+.dashbord2:hover
+{
+    background-color: #28a745;
+}
+
+#titre1
+{
+    margin-left: 20px;
+    
+}
+
+/* ce qu'il faut faire c'est de diminuer la taille des deux box en mettant le titre a l'entete */
+#btn1
+{
+    padding-right: 100px;
+    margin-left: 125px;
+    padding-right: 30px;
+    padding-left: 30px;
+    height:60px;
+    margin-top: 90px;
+    border-style:groove;
+    border-radius: 10px;
+}
+#btn2
+{
+  
+    height:60px;
+    margin-top: 90px;
+    border-style:groove;
+    border-radius: 10px;
+    
+    
+}
